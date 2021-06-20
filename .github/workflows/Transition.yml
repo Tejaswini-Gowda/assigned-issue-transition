@@ -10,5 +10,5 @@ jobs:
       - uses: alex-page/github-project-automation-plus@v0.3.0
         with:
           project: transtion-project
-          column: To do
+          column: TO DO
           repo-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
